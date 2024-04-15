@@ -6,12 +6,12 @@
 
     
 
-     cd #/your/file/path
+>     cd #/your/file/path
 
 2. Put the name of your file:
 
 
 
-      nitrogen --set-zoom-fill #name_of_your_file.png`
+>      nitrogen --set-zoom-fill #name_of_your_file.png`
 
 *Have fun :)*
