@@ -12,6 +12,6 @@
 
 
 
->      nitrogen --set-zoom-fill #name_of_your_file.png`
+>      nitrogen --set-zoom-fill #name_of_your_file.png
 
 *Have fun :)*
